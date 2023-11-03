@@ -1,0 +1,12 @@
+1.npm i express cors mongodb dotenv (server side install)
+2.npm install (react side install)
+3.npm install react-router-dom localforage match-sorter sort-by  (react side install)
+4.npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p  (react side install)
+5.npm i -D daisyui@latest (react side install)
+6.npm install dotenv --save (server side install)
+7.npm install sweetalert2 (react side install)
+8.npm install --save firebase
+
+coffeeMaster
+aN5aUTO70CGH3aFe
